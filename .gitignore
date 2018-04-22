@@ -1,14 +1,1 @@
-*.pyc
-*.egg-info
-*.egg
-*_build/
-.tox
-.coverage
-*.sass-cache
-.ropeproject/
-.ruby-version
-dist/
-bower_components/
-node_modules
-npm-debug.log
-package-lock.json
+*build/
